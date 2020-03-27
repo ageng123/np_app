@@ -1,0 +1,13 @@
+{
+    "name": "KontrolAplikasi",
+    "alias": "kontrolaplikasi",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\KontrolAplikasi\\Providers\\KontrolAplikasiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

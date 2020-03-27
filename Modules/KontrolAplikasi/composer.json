@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/kontrolaplikasi",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\KontrolAplikasi\\Providers\\KontrolAplikasiServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\KontrolAplikasi\\": ""
+        }
+    }
+}
